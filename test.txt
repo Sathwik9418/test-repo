@@ -1,1 +1,2 @@
 hi this is main branch text
+hi this is branch2 text
